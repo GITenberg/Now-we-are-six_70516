@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '54114'
     url: http://www.gutenberg.org/2009/agents/54114
     wikipedia: https://en.wikipedia.org/wiki/E._H._Shepard
+covers:
+- cover_type: archival
+  image_path: 70516-h/images/bcover.jpg
 creator:
   author:
     agent_name: Milne, A. A. (Alan Alexander)
@@ -25,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/730
     wikipedia: https://en.wikipedia.org/wiki/A._A._Milne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70516#Now-we-are-six
 gutenberg_issued: '2023-04-09'
 identifiers:
   gutenberg: '70516'
